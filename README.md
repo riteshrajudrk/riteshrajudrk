@@ -1,4 +1,4 @@
-![logo](https://github.com/riteshrajudrk/riteshrajudrk/blob/main/banner.png)
+![logo](https://github.com/riteshrajudrk/riteshrajudrk/blob/main/banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
 <h3 align="center">BTech CSE student passionate about software engineering and problem solving.</h3>
