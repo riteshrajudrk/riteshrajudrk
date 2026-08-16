@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Ritesh Kumar!  
 
-**B.Tech in Computer Science & Engineering (2022–2026)**  
+**B.Tech in Computer Science & Engineering (2023–2027)**  
 Aspiring Software Engineer | Passionate about Problem Solving & Full Stack Development | Always Learning & Building  
 
 📍 India | 📧 riteshrajudrk@gmail.com  
@@ -18,14 +18,17 @@ Aspiring Software Engineer | Passionate about Problem Solving & Full Stack Devel
 ---
 
 ## 🚀 About Me
-I’m an enthusiastic **Software Engineer aspirant** with hands-on experience in **Full Stack Development** and a strong interest in **Data Structures & Algorithms**.  
 
-- 🌱 Currently learning **React, Express, MongoDB, GSAP**  
-- 👨‍💻 Explore all my projects at: [My Portfolio](https://my-portfolio-vtkk.onrender.com/)  
-- 💬 Ask me about **JavaScript, React, Backend Development**  
-- ⚡ Fun fact: *Learning to code by day, dreaming algorithms by night*  
+I’m an enthusiastic **Software Engineer aspirant** with hands-on experience in **Full Stack Development** and a strong foundation in **Data Structures & Algorithms**.
 
----
+- 💻 Skilled in **C++, JavaScript, React.js, Node.js, Express.js, MongoDB & SQL**
+- 🚀 Experienced in building **full-stack applications using the MERN stack**
+- 🤖 Interested in **AI-powered applications, backend development, and problem solving**
+- 🧠 Solved **600+ DSA problems on LeetCode** with a **365-day continuous streak**
+- 🛠️ Built projects involving **AI, real-time communication, geofencing, and automation**
+- 🔐 Experienced with **JWT Authentication, REST APIs, Socket.IO, and MongoDB**
+- 👨‍💻 Explore my projects: **[My Portfolio](https://my-portfolio-vtkk.onrender.com/)**
+- ⚡ Fun fact: *Turning problems into code, one algorithm at a time.*
 
 ## 🛠️ Tech Stack  
 
